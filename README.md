@@ -1,6 +1,6 @@
 # Smart-Greenhouse-with-Fruit-Ripeness-Control-System
 Automation in agriculture is necessary as the human population keeps growing. Farmers are already using dangerous pesticides and genetically modified organics to yield enough organics to meet the huge demand. Currently, automation in farms and greenhouses helps farmers produce more food without creating a health risk for humans, which is created by the chemicals used to protect the plant. Automation in agriculture assists farmers in planting and harvesting the yield. However, in the growing process, the farmer should observe the crops so that the crop does not die. The process requires attention for each crop. Nevertheless, it is not possible to provide enough attention for each plant in large farms. Therefore, the growing process should also be automated as in planting and harvesting so that a large amount of yield can ripe without the help of harmful chemicals.
 For that purpose, a product called Smart Greenhouse with Fruit Ripeness Control System was designed and applied during the semester as a project. This product is to bring farmers and technology together. This purpose is done with a system which offers users to reach and control their greenhouses from their smart phones with the help of an application. With the designed application and, the established system to greenhouse, product owner may control three matters:
- Heat of the greenhouse
- Humidity of the soil
- Ripeness of the Fruit (Prototype: Tomatoes-Peppers)
+# Heat of the greenhouse
+# Humidity of the soil
+# Ripeness of the Fruit (Prototype: Tomatoes-Peppers)
